@@ -77,4 +77,5 @@ public:
 
 private:
 };
+
 #endif // !LICENCEPLATEPROCESSORBASE_H
